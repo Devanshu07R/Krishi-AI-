@@ -1,11 +1,19 @@
-# Virtual Environments
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
 venv/
 .venv/
 tf-env/
 
-# Python cache
-__pycache__/
-*.pyc
+# Streamlit
+.streamlit/
 
-# Environment variables
-.env
+# Uploads & outputs
+uploads/
+outputs/
+upload_history.txt
+
+# OS
+.DS_Store
