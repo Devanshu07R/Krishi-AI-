@@ -1,0 +1,30 @@
+{
+  "English": {
+    "title": "Plant Disease Identifier & Remedy",
+    "upload": "Upload Leaf Image",
+    "detected": "Detected Disease",
+    "confidence": "Confidence Score",
+    "remedy": "Suggested Natural Remedy"
+  },
+  "Hindi": {
+    "title": "पौधों की बीमारी पहचान और उपचार",
+    "upload": "पत्ते की तस्वीर अपलोड करें",
+    "detected": "पहचानी गई बीमारी",
+    "confidence": "विश्वास स्तर",
+    "remedy": "प्राकृतिक उपचार"
+  },
+  "Bengali": {
+    "title": "উদ্ভিদের রোগ সনাক্তকরণ ও প্রতিকার",
+    "upload": "পাতার ছবি আপলোড করুন",
+    "detected": "সনাক্ত রোগ",
+    "confidence": "বিশ্বাসের মাত্রা",
+    "remedy": "প্রাকৃতিক প্রতিকার"
+  },
+  "Tamil": {
+    "title": "தாவர நோய் கண்டறிதல் மற்றும் தீர்வு",
+    "upload": "இலை புகைப்படத்தை பதிவேற்றவும்",
+    "detected": "கண்டறியப்பட்ட நோய்",
+    "confidence": "நம்பிக்கை மதிப்பெண்",
+    "remedy": "இயற்கை தீர்வு"
+  }
+}
