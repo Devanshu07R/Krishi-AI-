@@ -7,6 +7,9 @@ venv/
 .venv/
 tf-env/
 
+# Environment variables (IMPORTANT)
+.env
+
 # Streamlit
 .streamlit/
 
